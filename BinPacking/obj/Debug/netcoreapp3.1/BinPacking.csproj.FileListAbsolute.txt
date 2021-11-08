@@ -1,0 +1,13 @@
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\bin\Debug\netcoreapp3.1\BinPacking.exe
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\bin\Debug\netcoreapp3.1\BinPacking.deps.json
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\bin\Debug\netcoreapp3.1\BinPacking.runtimeconfig.json
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\bin\Debug\netcoreapp3.1\BinPacking.runtimeconfig.dev.json
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\bin\Debug\netcoreapp3.1\BinPacking.dll
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\bin\Debug\netcoreapp3.1\BinPacking.pdb
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\obj\Debug\netcoreapp3.1\BinPacking.csprojAssemblyReference.cache
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\obj\Debug\netcoreapp3.1\BinPacking.AssemblyInfoInputs.cache
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\obj\Debug\netcoreapp3.1\BinPacking.AssemblyInfo.cs
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\obj\Debug\netcoreapp3.1\BinPacking.csproj.CoreCompileInputs.cache
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\obj\Debug\netcoreapp3.1\BinPacking.dll
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\obj\Debug\netcoreapp3.1\BinPacking.pdb
+C:\Users\DritelindaH\source\repos\BinPacking\BinPacking\obj\Debug\netcoreapp3.1\BinPacking.genruntimeconfig.cache
